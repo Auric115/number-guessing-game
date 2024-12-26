@@ -2,14 +2,14 @@
 
 A fun and simple CLI-based game where you can test your luck by guessing a randomly selected number within a limited number of attempts.
 
-## About the Project
+## Description
 
-In this project, you will build a **Number Guessing Game** where:
+In this project, I built a **Number Guessing Game** where:
 - The computer randomly selects a number between 1 and 100.
 - The user has a limited number of chances to guess the number, determined by the selected difficulty level.
 - Feedback is provided for every guess, and the game concludes when the number is guessed or the chances are exhausted.
 
-[Project Link](https://roadmap.sh/projects/number-guessing-game)
+[Project Description Link](https://roadmap.sh/projects/number-guessing-game)
 
 ---
 
